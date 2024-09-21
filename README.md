@@ -78,4 +78,4 @@ else:
     
     print("El numero es impar")
 
-    ![image](https://github.com/user-attachments/assets/ad30a96f-f4cb-41a9-b818-0ba9f3edcac4)
+![image](https://github.com/user-attachments/assets/ad30a96f-f4cb-41a9-b818-0ba9f3edcac4)
